@@ -1,17 +1,4 @@
 # Hello my name is Daniel, this my not work project.
-<div>
-<img src="assets/fastapi-logo.png" alt="fastapi-logo" height="60" /> <img
-src="assets/react-logo.png" alt="react-logo" height="60" /> &nbsp; &nbsp; <img
-src="assets/react-admin.png" alt="react-admin" height="60" /> &nbsp; &nbsp; <img
-src="assets/typescript.png" alt="react-logo" height="60" /> &nbsp;&nbsp;&nbsp;
-<img src="assets/postgres.png" alt="react-logo" height="60" /> <img
-src="assets/sql-alchemy.png" alt="sql-alchemy" height="60" />
-</div>
-
-A cookiecutter template for bootstrapping a FastAPI and React project using a
-modern stack.
-
----
 
 ## Features
 
@@ -71,8 +58,7 @@ modern stack.
   - [Higher Order Components](#higher-order-components)
     - [PrivateRoute](#privateroute)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-
+- 
 ## Background
 
 It is often laborsome to start a new project. 90% of the time you have to decide
